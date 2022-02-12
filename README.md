@@ -1,2 +1,1 @@
-# games
-Flash games 
+# Flash Games (.swf format)
